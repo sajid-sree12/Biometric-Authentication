@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PresentSir</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="button">Login</string>
+    <string name="powered_by">Powered By</string>
+    <string name="present_sir">Present Sir</string>
+    <string name="college_name">SVR ENGINEERING COLLEGE</string>
+    <string name="logo">logo</string>
+    <string name="svr_engineering_college">SVR ENGINEERING COLLEGE</string>
+    <string name="clglogo">clg logo</string>
+    <string name="new_user">New User ?</string>
+    <string name="register">Register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_fingerprint">Fingerprint</string>
+    <string name="fullname">Fullname</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="branch">Branch</string>
+    <string name="finger_print">Finger Print</string>
+    <string name="mark_attendence">Mark Attendance</string>
+    <string name="date">Date</string>
+    <string name="date2">Date</string>
+    <string name="date_picker">DATE PICKER</string>
+    <string-array name="Branches">
+        <item>Select Branch</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>CSE</item>
+    </string-array>
+</resources>
